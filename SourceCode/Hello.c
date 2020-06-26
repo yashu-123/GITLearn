@@ -1,8 +1,5 @@
 #include<stdio.h>
 
-void uselessFunc(){
-
-}
 void addFuncRemotely(){
 	printf("Remote Changes Done");
 }
