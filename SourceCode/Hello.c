@@ -1,6 +1,8 @@
 #include<stdio.h>
 
 void doWhatYouLike(){
+	// Changes Done Remotely
+	// Hello All!!
 	printf("I like dancing!!");
 }
 void addFuncRemotely(){
