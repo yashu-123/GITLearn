@@ -2,7 +2,7 @@
 
 void doWhatYouLike(){
 	//Some Changes Here
-	//Some more
+	// Hello All!!
 	printf("I like dancing!!");
 }
 void addFuncRemotely(){
